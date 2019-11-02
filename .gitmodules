@@ -1,3 +1,7 @@
 [submodule "ml-01"]
 	path = ml-01
 	url = https://github.com/datagym-ru/ml-01.git
+[submodule "team_03_comp_01"]
+	path = team_03_comp_01
+	url = https://github.com/datagym-ru/team_03_comp_01
+

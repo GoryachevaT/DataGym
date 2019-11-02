@@ -1,6 +1,3 @@
-[submodule "materials"]
-	path = materials
-	url = https://github.com/datagym-ru/ml-01.git
 [submodule "ml-01"]
 	path = ml-01
 	url = https://github.com/datagym-ru/ml-01.git
